@@ -11,7 +11,7 @@ export const HeroSection = () => {
         <div className="md:w-1/2 md:mt-2">
           <Image
             className="rounded-full shadow-2xl"
-            src="/JustinWhiteCap_resized.jpg"
+            src="/hero-image.jpg"
             alt="profile picture"
             width={350}
             height={350}
