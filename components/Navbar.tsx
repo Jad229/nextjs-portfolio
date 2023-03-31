@@ -75,7 +75,6 @@ export const Navbar = () => {
                   onClick={() => setTheme("light")}
                   className="bg-slate-100 p-2 rounded-xl"
                 >
-                  {" "}
                   <RiSunLine size={25} color="black" />
                 </button>
               ) : (
