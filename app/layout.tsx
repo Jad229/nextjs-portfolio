@@ -1,9 +1,12 @@
-import '../styles/globals.css'
+"use client"; //This is a client component
+import { Navbar } from "@/components/Navbar";
+import { ThemeProvider } from "next-themes";
+import "../styles/globals.css";
 
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode
+  children: React.ReactNode;
 }) {
   return (
     <html lang="en">
@@ -12,7 +15,12 @@ export default function RootLayout({
         head.tsx. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
       */}
       <head />
-      <body>{children}</body>
+      <body>
+        <ThemeProvider enableSystem={true} attribute="class">
+          <Navbar />
+          {children}
+        </ThemeProvider>
+      </body>
     </html>
-  )
+  );
 }
