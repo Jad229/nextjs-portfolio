@@ -28,7 +28,7 @@ export const AboutSection = () => {
             </h1>
             <p>
               Hi, my name is Justin and I am a{" "}
-              <span className="font-bold">tenacious</span> ,{" "}
+              <span className="font-bold">tenacious</span>,{" "}
               <span className="font-bold">highly ambitious</span>,{" "}
               <span className="font-bold">adaptable</span>, and{" "}
               <span className="font-bold">passionate</span> software engineer
@@ -41,16 +41,17 @@ export const AboutSection = () => {
             </p>
             <br />
             <p>
-              I have always been a dedicated gamer with a passion for all types
-              of video games. From the latest first-person shooters to classic
-              arcade games, I loves immersing myself in different virtual worlds
-              and experiencing new challenges.
+              As someone with a passion for coding, I find it fascinating to immerse myself in the world of programming 
+              and its endless possibilities. Whether I'm working on a new project or solving a challenging coding problem, 
+              I love the sense of accomplishment and creativity that comes with coding. With programming languages constantly 
+              evolving, there's always something new to learn and explore. From building web applications to developing 
+              complex algorithms, coding provides me with the ability to create and innovate in a way that few other fields can match.
             </p>
             <br />
             <p>
-              When I am not gaming, I enjoy reading up on my favorite mangas and
-              comic, coding, as well as gaining new experiences. I believe we
-              are all little universes with limitless potential the world has
+              When I am not coding, I enjoy reading up on my favorite mangas and
+              comic, gaming, as well as gaining new experiences. I believe we
+              are all little universes with limitless potential. The world has
               much to offer and I want to soak it all up!
             </p>
           </div>
