@@ -9,8 +9,8 @@ const projects = [
     description:
       "Ideal Car Corp is a car dealership website meant to  provides an easy-to-use platform for customers to browse our inventory, compare models, and get in contact. ",
     image: "/ideal-car-corp-thumbnail.png",
-    github: "https://github.com/Jad229/nextjs-portfolio",
-    link: "https://jad229.github.io/Car-Page/",
+    github: "https://github.com/Jad229/nextjs-car-dealer",
+    link: "https://nextjs-car-dealer.vercel.app/",
   },
   {
     name: "Pretty Queen",

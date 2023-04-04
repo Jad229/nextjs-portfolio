@@ -41,11 +41,15 @@ export const AboutSection = () => {
             </p>
             <br />
             <p>
-              As someone with a passion for coding, I find it fascinating to immerse myself in the world of programming 
-              and its endless possibilities. Whether I'm working on a new project or solving a challenging coding problem, 
-              I love the sense of accomplishment and creativity that comes with coding. With programming languages constantly 
-              evolving, there's always something new to learn and explore. From building web applications to developing 
-              complex algorithms, coding provides me with the ability to create and innovate in a way that few other fields can match.
+              As someone with a passion for coding, I find it fascinating to
+              immerse myself in the world of programming and its endless
+              possibilities. Whether I am working on a new project or solving a
+              challenging coding problem, I love the sense of accomplishment and
+              creativity that comes with coding. With programming languages
+              constantly evolving, there is always something new to learn and
+              explore. From building web applications to developing complex
+              algorithms, coding provides me with the ability to create and
+              innovate in a way that few other fields can match.
             </p>
             <br />
             <p>
