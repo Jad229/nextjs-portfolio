@@ -5,12 +5,20 @@ import { BsArrowUpRightSquare, BsGithub } from "react-icons/bs";
 import SlideUp from "./SlideUp";
 const projects = [
   {
+    name: "MyWebClass",
+    description:
+      "Marketing Site for a new A.I driven learning platform, meant to help all those interested in software development.",
+    image: "/mywebclass.png",
+    github: "https://github.com/Jad229/mywebclass",
+    link: "https://mywebclass.tejpatel.live/en",
+  },
+  {
     name: "Ideal Car Corp",
     description:
       "Ideal Car Corp is a car dealership website meant to  provides an easy-to-use platform for customers to browse our inventory, compare models, and get in contact. ",
     image: "/ideal-car-corp-thumbnail.png",
     github: "https://github.com/Jad229/nextjs-car-dealer",
-    link: "https://nextjs-car-dealer.vercel.app/",
+    link: "https://nextjs-car-dealer-hkxj.vercel.app/",
   },
   {
     name: "Pretty Queen",
@@ -18,7 +26,7 @@ const projects = [
       "Pretty Queen is a salon website built with Vue.js and bootstrap that offers a wide range of beauty services to help clients look and feel their best.",
     image: "/pretty-queen.png",
     github: "https://github.com/Jad229/pretty-queen-v2",
-    link: "jad229.github.io/pretty-Queen/",
+    link: "https://pretty-queen.vercel.app/",
   },
   {
     name: "Keeper App",
