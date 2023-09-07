@@ -13,14 +13,6 @@ const projects = [
     link: "https://mywebclass.tejpatel.live/en",
   },
   {
-    name: "Ideal Car Corp",
-    description:
-      "Ideal Car Corp is a car dealership website meant to  provides an easy-to-use platform for customers to browse our inventory, compare models, and get in contact. ",
-    image: "/ideal-car-corp-thumbnail.png",
-    github: "https://github.com/Jad229/nextjs-car-dealer",
-    link: "https://nextjs-car-dealer-hkxj.vercel.app/",
-  },
-  {
     name: "Pretty Queen",
     description:
       "Pretty Queen is a salon website built with Next.js and Tailwind that offers a wide range of beauty services.",
@@ -42,6 +34,14 @@ const projects = [
     image: "/keeper-app-thumbnail.png",
     github: "https://github.com/Jad229/keeper-app",
     link: "https://jad229.github.io/keeper-app/",
+  },
+  {
+    name: "Ideal Car Corp",
+    description:
+      "Ideal Car Corp is a car dealership website meant to  provides an easy-to-use platform for customers to browse our inventory, compare models, and get in contact. ",
+    image: "/ideal-car-corp-thumbnail.png",
+    github: "https://github.com/Jad229/nextjs-car-dealer",
+    link: "https://nextjs-car-dealer-hkxj.vercel.app/",
   },
 ];
 
