@@ -23,6 +23,14 @@ const projects = [
   {
     name: "Pretty Queen",
     description:
+      "Pretty Queen is a salon website built with Next.js and Tailwind that offers a wide range of beauty services.",
+    image: "/prettyqueen.png",
+    github: "https://github.com/Jad229/web-salon",
+    link: "https://web-salon.vercel.app/",
+  },
+  {
+    name: "Pretty Queen Ver. 1 Design Mockup",
+    description:
       "Pretty Queen is a salon website built with Vue.js and bootstrap that offers a wide range of beauty services to help clients look and feel their best.",
     image: "/pretty-queen.png",
     github: "https://github.com/Jad229/pretty-queen-v2",
